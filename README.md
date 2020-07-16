@@ -22,3 +22,4 @@
 
 #### 📧 To contact me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chicofariasneto@gmail.com)](mailto:chicofariasneto@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&logo=Telegram&logoColor=white&link=https://telegram.org/)](https://t.me/chicofariasneto)
