@@ -11,11 +11,12 @@
 ### 📬 My social networks and other ways to contact me
 [![GitHub followers](https://img.shields.io/github/followers/chicofariasneto.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/chicofariasneto?tab=followers)
 [![Twitter followers](https://img.shields.io/twitter/follow/chicofariasneto.svg?style=social&label=Follow)](https://twitter.com/chicofariasneto)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chicofariasneto/)](https://www.linkedin.com/in/chicofariasneto/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/chicofariasneto/)](https://www.instagram.com/chicofariasneto/)
-[![Uri badge](https://img.shields.io/badge/-URI-red?style=flat-square&link=https://www.urionlinejudge.com.br/judge/en/profile/160141)](https://www.urionlinejudge.com.br/judge/en/profile/160141)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-black?style=flat-quare&logo=Codeforces&LogoColor=blue&link=https://codeforces.com/profile/chicofariasneto)](https://codeforces.com/profile/chicofariasneto)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chicofariasneto@gmail.com)](mailto:chicofariasneto@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&logo=Telegram&logoColor=white&link=https://telegram.org/)](https://t.me/chicofariasneto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chicofariasneto/)](https://www.linkedin.com/in/chicofariasneto/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=plastic&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/chicofariasneto/)](https://www.instagram.com/chicofariasneto/)
+[![Uri badge](https://img.shields.io/badge/-URI-red?style=plastic&logo=appveyor&link=https://www.urionlinejudge.com.br/judge/en/profile/160141)](https://www.urionlinejudge.com.br/judge/en/profile/160141)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-black?style=plastic&logo=Codeforces&LogoColor=blue&link=https://codeforces.com/profile/chicofariasneto)](https://codeforces.com/profile/chicofariasneto)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chicofariasneto@gmail.com)](mailto:chicofariasneto@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=Telegram&logoColor=white&link=https://telegram.org/)](https://t.me/chicofariasneto)
+[![Spotify badge](https://img.shields.io/badge/-Spotify-black?style=plastic&logo=Spotify&logoColor=green&link=https://open.spotify.com/user/chicofariasneto)](https://open.spotify.com/user/chicofariasneto)
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Vader](https://media.giphy.com/media/hyBjcpooaAwuY/giphy.gif)
