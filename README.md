@@ -2,9 +2,9 @@
 
 * About me
 
-  - 📚 I'm a computer science student at federal university of Sergipe, started in 2017;
-  - 👨🏽‍💻 I'm a junior programmer at Sergipe State Health Secretariat, started in 2020/05;
-  - 💚 I'm a nodejs backend developer, and currently studying javascrit frontend technologies and improving knowledge with Java;
+  - 📚 I'm a computer science student at federal university of Sergipe, started in 2017 (Expect 2021.2);
+  - 👨🏽‍💻 I'm a backend developer with nodeJS, Java and Python;
+  - 💚 I'm currently studying javascrit frontend technologies;
   - 🤖 I love creating bots, and learning new technologies;
   - 🥋 Fun Facts, I love Star Wars and I'm a jiu jitsu practitioner.
 
