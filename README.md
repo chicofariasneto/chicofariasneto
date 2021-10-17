@@ -3,9 +3,7 @@
 * About me
 
   - 📚 I'm a computer science student at federal university of Sergipe, started in 2017 (Expect 2021.2);
-  - 👨🏽‍💻 I'm a backend developer with nodeJS, Java and Python;
-  - 💚 I'm currently studying javascrit frontend technologies;
-  - 🤖 I love creating bots, and learning new technologies;
+  - 👨🏽‍💻 I'm a Software Engineer at IBM, working at chat and bots from Itau Project;
   - 🥋 Fun Facts, I love Star Wars and I'm a jiu jitsu practitioner.
 
 ### 📬 My social networks and other ways to contact me
