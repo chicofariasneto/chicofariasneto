@@ -2,7 +2,7 @@
 
 # Francisco Neto
 
-**Senior Software Engineer @ iFood** · ex-Syngenta Digital · ex-XP Inc. · ex-IBM
+**Software Engineer @ Housecall Pro** · ex-iFood · ex-Syngenta Digital · ex-XP Inc. · ex-IBM
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chicofariasneto/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chicofariasneto@gmail.com)
@@ -13,21 +13,23 @@
 
 ### About
 
-Backend engineer building high-scale systems — currently in Go, on iFood's Logistics team, working on route and delivery optimization for Latin America's largest food delivery platform. My path into this started in competitive programming (ICPC/ERBASE regional podiums), which is probably why I still enjoy the algorithm as much as the architecture around it.
+Backend engineer building high-scale systems — currently a Software Engineer at Housecall Pro. Before that, I was on iFood's Logistics team writing Go services for route and delivery optimization on Latin America's largest food delivery platform. My path into this started in competitive programming (ICPC/ERBASE regional podiums), which is probably why I still enjoy the algorithm as much as the architecture around it.
 
-Before iFood, I was Backend Tech Lead for Syngenta Digital's analytics platform, and I've shipped backend systems in fintech (XP Inc.) and enterprise (IBM). Computer Science degree from UFS; a Master's in the same field is currently on leave.
+Earlier, I was Backend Tech Lead for Syngenta Digital's analytics platform, and I've shipped backend systems in fintech (XP Inc.) and enterprise (IBM). Computer Science degree from UFS; a Master's in the same field is currently on leave.
 
 ### Currently
 
-- 🛵 Designing high-performance Go services for iFood's Logistics stack, and building internal AI agents to speed up the team's own workflow
-- 🧩 Building **Juntin**, a shared-routines app for couples and families
+- 🏠 Starting a new chapter as a Software Engineer at **Housecall Pro**
+- ⏳ Building **[Cápsula do Tempo](https://capsulatempo.app)** in public — my newest project: an end-to-end encrypted time capsule you write today and open years from now
+- 🧩 Building **[Juntin](https://juntin.app)**, a shared-routines app for couples and families
 - 🎾 Shipping a React Native app for **[Bequirrendi Open](https://bequirrendi.aju.br)**, a local tennis league
 
 ### Career
 
 | Company | Role | Period | Core stack |
 |---|---|---|---|
-| iFood | Senior Software Engineer | Jul 2025 – Present | Go, AWS |
+| Housecall Pro | Software Engineer | Sep 2026 – Present | Ruby on Rails, AWS, AI-heavy workflow |
+| iFood | Software Engineer | Jul 2025 – Sep 2026 | Go, AWS |
 | Syngenta Digital | Backend Tech Lead | Apr 2023 – Jun 2025 | Node.js, Python, AWS Serverless |
 | XP Inc. | Software Engineer | Jan 2022 – Mar 2023 | .NET, Azure, SQL Server |
 | IBM | Software Engineer | Jun 2021 – Dec 2021 | Node.js, AWS |
@@ -39,6 +41,7 @@ Before iFood, I was Backend Tech Lead for Syngenta Digital's analytics platform,
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -47,11 +50,13 @@ Before iFood, I was Backend Tech Lead for Syngenta Digital's analytics platform,
 
 **Backend & frameworks**
 
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 **Data**
 
@@ -87,7 +92,9 @@ Before iFood, I was Backend Tech Lead for Syngenta Digital's analytics platform,
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 
-### Featured projects
+### Building in public
+
+**[Cápsula do Tempo](https://capsulatempo.app)** *(newest)* — write it today, read it in 10 years. A real time capsule: goals, letters, photos and video, written alone or with up to 20 people, then sealed with end-to-end encryption and a key only you hold. Once sealed, not even you can open it early — and not even we can read it. Next.js web, NestJS API.
 
 **[Juntin](https://juntin.app)** — a shared-routines app for couples and families: one calendar where events one person adds show up for everyone, plus a shared shopping list. NestJS API, Next.js web, React Native mobile.
 
