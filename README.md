@@ -6,6 +6,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chicofariasneto/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chicofariasneto@gmail.com)
+&nbsp;|&nbsp;
+[![Juntin](https://img.shields.io/badge/Juntin-juntin.app-2D3748?style=flat-square)](https://juntin.app)
+[![Cápsula do Tempo](https://img.shields.io/badge/C%C3%A1psula_do_Tempo-capsulatempo.app-2D3748?style=flat-square)](https://capsulatempo.app)
+[![CourtWise](https://img.shields.io/badge/CourtWise-courtwise.tennis-2D3748?style=flat-square)](https://courtwise.tennis)
 
 </div>
 
@@ -20,21 +24,22 @@ Earlier, I was Backend Tech Lead for Syngenta Digital's analytics platform, and 
 ### Currently
 
 - 🏠 Starting a new chapter as a Software Engineer at **Housecall Pro**
-- ⏳ Building **[Cápsula do Tempo](https://capsulatempo.app)** in public — my newest project: an end-to-end encrypted time capsule you write today and open years from now
-- 🧩 Building **[Juntin](https://juntin.app)**, a shared-routines app for couples and families
-- 🎾 Shipping a React Native app for **[Bequirrendi Open](https://bequirrendi.aju.br)**, a local tennis league
+- 🏟️ Building [**CourtWise**](https://courtwise.tennis) — my newest project, a tennis training app with streaks, court-drawn strategies and sessions made your way
+- ⏳ Building [**Cápsula do Tempo**](https://capsulatempo.app) in public — an end-to-end encrypted time capsule you write today and open years from now
+- 🧩 Building [**Juntin**](https://juntin.app), a shared-routines app for couples and families
+- 🎾 Shipping a React Native app for [**Bequirrendi Open**](https://bequirrendi.aju.br), a local tennis league
 
 ### Career
 
-| Company | Role | Period | Core stack |
-|---|---|---|---|
-| Housecall Pro | Software Engineer | Sep 2026 – Present | Ruby on Rails, AWS, AI-heavy workflow |
-| iFood | Software Engineer | Jul 2025 – Sep 2026 | Go, AWS |
-| Syngenta Digital | Backend Tech Lead | Apr 2023 – Jun 2025 | Node.js, Python, AWS Serverless |
-| XP Inc. | Software Engineer | Jan 2022 – Mar 2023 | .NET, Azure, SQL Server |
-| IBM | Software Engineer | Jun 2021 – Dec 2021 | Node.js, AWS |
-| LinkApi | Jr. Software Engineer | Feb 2021 – Jun 2021 | Node.js, e-commerce integrations |
-| SergipeTec | Jr. Software Engineer | May 2020 – Feb 2021 | Java, Spring Boot |
+| Company          | Role                  | Period              | Core stack                            |
+|------------------|-----------------------|---------------------|---------------------------------------|
+| Housecall Pro    | Software Engineer     | Sep 2026 – Present  | Ruby on Rails, AWS, AI-heavy workflow |
+| iFood            | Software Engineer     | Jul 2025 – Sep 2026 | Go, AWS                               |
+| Syngenta Digital | Backend Tech Lead     | Apr 2023 – Jun 2025 | Node.js, Python, AWS Serverless       |
+| XP Inc.          | Software Engineer     | Jan 2022 – Mar 2023 | .NET, Azure, SQL Server               |
+| IBM              | Software Engineer     | Jun 2021 – Dec 2021 | Node.js, AWS                          |
+| LinkApi          | Jr. Software Engineer | Feb 2021 – Jun 2021 | Node.js, e-commerce integrations      |
+| SergipeTec       | Jr. Software Engineer | May 2020 – Feb 2021 | Java, Spring Boot                     |
 
 ### Tech stack
 
@@ -94,11 +99,13 @@ Earlier, I was Backend Tech Lead for Syngenta Digital's analytics platform, and 
 
 ### Building in public
 
-**[Cápsula do Tempo](https://capsulatempo.app)** *(newest)* — write it today, read it in 10 years. A real time capsule: goals, letters, photos and video, written alone or with up to 20 people, then sealed with end-to-end encryption and a key only you hold. Once sealed, not even you can open it early — and not even we can read it. Next.js web, NestJS API.
+[**CourtWise**](https://courtwise.tennis) *(newest)* — a tennis training app built around your level, your days, your training. Find your level in 2 minutes, pick the days you'll train and keep your streak's flame lit. Learn from strategies drawn on the court, and ask Maria for a session your way.
 
-**[Juntin](https://juntin.app)** — a shared-routines app for couples and families: one calendar where events one person adds show up for everyone, plus a shared shopping list. NestJS API, Next.js web, React Native mobile.
+[**Cápsula do Tempo**](https://capsulatempo.app) — write it today, read it in 10 years. A real time capsule: goals, letters, photos and video, written alone or with up to 20 people, then sealed with end-to-end encryption and a key only you hold. Once sealed, not even you can open it early — and not even we can read it. Next.js web, NestJS API.
 
-**[Bequirrendi Open](https://bequirrendi.aju.br)** — a mobile app for a local tennis league, built with React Native/Expo, with Pagar.me handling payments.
+[**Juntin**](https://juntin.app) — a shared-routines app for couples and families: one calendar where events one person adds show up for everyone, plus a shared shopping list. NestJS API, Next.js web, React Native mobile.
+
+[**Bequirrendi Open**](https://bequirrendi.aju.br) — a mobile app for a local tennis league, built with React Native/Expo, with Pagar.me handling payments.
 
 ### Beyond the keyboard
 
